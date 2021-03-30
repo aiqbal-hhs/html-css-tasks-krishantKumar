@@ -1,0 +1,63 @@
+body {
+background-image: url(https://wallpaperaccess.com/full/1586344.jpg);
+}
+
+.header {
+  color: black;
+  text-align: center;
+  font-family: fantasy;
+ font-size: 25px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+  border: 4px solid #000;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  border-radius: 15px;
+}
+
+img {
+  border: 5px solid #000;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 6px 3px rgba(100, 100, 100, 100);
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: darkgray;
+color: black;
+text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 40px;
+}
